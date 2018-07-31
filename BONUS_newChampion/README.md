@@ -7,3 +7,4 @@
 4. Using the DOM, set the `.pyke` class `background-image` property to the "pyke.jpg" image found in the "assets" folder
    - Also, set the `color` property to #92fdfe
 5. [Secret Website](https://2018-asc-secret.glitch.me/)
+
